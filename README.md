@@ -1,4 +1,4 @@
-![webpage](C:\Users\zpy\Desktop\GitHub_provider\langextract_demo\images\webpage.png)
+![webpage]([C:\Users\zpy\Desktop\GitHub_provider\langextract_demo\images\webpage.png](https://github.com/Zpy-ai/langextract_demo/blob/main/images/webpage.png))
 
 
 
