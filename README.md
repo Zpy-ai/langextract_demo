@@ -1,3 +1,7 @@
+![webpage](C:\Users\zpy\Desktop\GitHub_provider\langextract_demo\images\webpage.png)
+
+
+
 # 一、信息提取规则
 
 程序会提取以下五类信息：
